@@ -35,7 +35,6 @@ runs/
 
 # Data and results (if not needed in repo)
 data/
-input_data/
 output_data_png/
 output_data_svg/
 result/
