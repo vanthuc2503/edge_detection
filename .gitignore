@@ -27,7 +27,6 @@ Thumbs.db
 .env
 
 # Model checkpoints and training outputs
-checkpoints/
 log/
 log_data/
 runs/
